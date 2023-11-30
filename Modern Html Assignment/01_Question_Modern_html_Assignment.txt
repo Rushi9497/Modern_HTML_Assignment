@@ -1,0 +1,111 @@
+
+Q1.List out the features of HTML5.
+
+ans:- 
+Html5 features :-
+
+HTML5, the fifth revision of the Hypertext Markup Language, 
+introduced several new features and improvements over its 
+predecessors. 
+Here's a list of some key features of HTML5:
+
+1.Semantic Elements:
+
+<header>, <footer>, <nav>, <article>, <section>, <aside>,
+<figure>, <figcaption>, <details>, <summary>, etc. 
+These elements provide a more meaningful structure to web documents.
+
+
+2.Multimedia Support:
+
+<audio> and <video> elements for embedding media content without
+third-party plugins.
+
+
+3.Canvas:
+
+The <canvas> element allows for dynamic, scriptable rendering of
+2D shapes and bitmap images.
+
+
+4.SVG (Scalable Vector Graphics):
+
+HTML5 includes native support for vector graphics through the SVG format.
+
+
+5.Form Controls:
+
+New input types like <email>, <url>, <tel>, <number>, <range>, <date>,
+<time>, and <color> provide better user input options.
+
+
+6.Form Validation:
+
+The pattern attribute and the required attribute help with client-side form validation.
+
+
+7.Local Storage:
+
+The localStorage and sessionStorage objects allow web applications to store
+data locally on the user's device.
+
+
+8.Web Workers:
+
+The ability to run scripts in the background using Web Workers, improving 
+performance by offloading tasks from the main thread.
+
+
+9.Geolocation API:
+
+The Geolocation API allows web applications to access the user's geographical location.
+
+
+10.Web Storage:
+
+Provides a way to store key/value pairs in a web browser with no expiration time.
+
+
+11.WebSockets:
+
+Supports full-duplex communication channels over a single, long-lived connection.
+
+
+12.Server-Sent Events (EventSource):
+
+Enables servers to push data to web clients over HTTP in real-time.
+
+
+13.Offline Web Applications:
+
+The Application Cache allows web applications to work offline.
+
+
+14.Responsive Design:
+
+HTML5 facilitates the development of responsive websites with features like media queries.
+
+
+15.Drag and Drop:
+
+Native drag-and-drop functionality simplifies the implementation of intuitive user interfaces.
+
+
+16.New Document Outlining:
+
+The <article>, <section>, and <nav> elements provide a clearer document structure.
+
+17.Improved Accessibility:
+
+New attributes and features enhance accessibility, making it easier for users with
+disabilities to navigate and understand content.
+
+
+18.Integration of MathML and WAI-ARIA:
+
+Support for MathML (Mathematical Markup Language) for rendering mathematical equations
+and WAI-ARIA (Web Accessibility Initiative - Accessible Rich Internet Applications) for 
+improved accessibility.
+These features collectively contribute to making web development more versatile, efficient, 
+and user-friendly. Keep in mind that browser support may vary, and developers need to 
+consider fallbacks for older browsers.
